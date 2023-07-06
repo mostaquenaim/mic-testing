@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+input[type="password"]{
+    color: rgb(202, 118, 118);
+}
+
+.blog{
+    background-color: aquamarine;
+    border: 3px solid seagreen;
+    border-radius: 10px;
+    margin: 10px;
+}
